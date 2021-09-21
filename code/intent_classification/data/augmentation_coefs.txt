@@ -1,0 +1,3 @@
+explication_facture	0.86
+probleme_box_tv	1.14
+reseau_mobile	1.01

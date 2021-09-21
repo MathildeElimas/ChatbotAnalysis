@@ -1,0 +1,5 @@
+{"data":  {"autres": "1", "bbox": "2", "continuer": "3", "facture": "4", "reseau": "5"},
+ "embedding":  {"oneHot": "1", "count": "2", "tfidf": "3"},
+ "regul":  {"None": "0", "lem": "1", "stem": "2"},
+ "remove_stopwords": {"True": "1", "False":  "2"},
+ "embedding": {"onehot": "1", "count": "2", "tfidf": "3"}}

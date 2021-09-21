@@ -1,0 +1,10 @@
+{"data": "bbox",
+ "regul": "lem",
+ "remove_stopwords": true,
+ "stop": [],
+ "keep": [],
+ "n_grams": 3,
+ "min_occur": 2,
+ "min_freq": 0.01,
+ "max_freq": 0.9,
+ "embedding": "tfidf"}
